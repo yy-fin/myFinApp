@@ -1,0 +1,8 @@
+# intellij configs
+.idea/
+
+# Byte-compiled
+__pycache__
+
+# File In the Apple macOS operating system
+.DS_Store
